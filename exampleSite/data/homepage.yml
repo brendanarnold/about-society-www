@@ -2,9 +2,7 @@
 banner:
   title: We will deliver a digital prototype<br />in <b>one week</b><br /><b>for free</b>
   image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: Our approach gets you off the ground quickly with no risk
   button:
     enable: true
     label: Contact With Us
