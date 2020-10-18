@@ -5,7 +5,7 @@ banner:
   content: Our approach gets you off the ground quickly with no risk
   button:
     enable: true
-    label: Contact With Us
+    label: Contact Us
     link: "#"
 feature:
   enable: true
