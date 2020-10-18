@@ -20,15 +20,6 @@ feature:
   - name: 3. Iterate
     icon: ti-alarm-clock
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Value For Money
-    icon: ti-credit-card
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Faster Response
-    icon: ti-headphone-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Cloud Support
-    icon: ti-cloud-up
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
 service:
   enable: true
   service_item:
