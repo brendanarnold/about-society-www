@@ -9,11 +9,11 @@ banner:
     link: "#"
 feature:
   enable: true
-  title: Something You Need To Know
+  title: Here's how we work
   feature_item:
-  - name: Clean Code
+  - name: 1. Initial consultation
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: ''
   - name: Object Oriented
     icon: ti-package
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
