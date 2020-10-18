@@ -14,7 +14,7 @@ feature:
   - name: 1. Initial consultation
     icon: ti-pulse
     content: ''
-  - name: 2. Build an initial protptype
+  - name: 2. Build an initial prototype
     icon: ti-package
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: 3. Iterate
