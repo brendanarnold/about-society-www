@@ -14,7 +14,7 @@ feature:
   - name: 1. Initial consultation
     icon: ti-pulse
     content: ''
-  - name: Object Oriented
+  - name: 2. Build an initial protptype
     icon: ti-package
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: 24h Service
