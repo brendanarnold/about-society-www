@@ -2,7 +2,7 @@
 banner:
   title: We will deliver a digital prototype<br />in <b>one week</b><br /><b>for free</b>
   image: images/banner-art.svg
-  content: Our approach gets you off the ground quickly with no risk
+  content: Our approach gets you off the ground quickly with <b>no risk</b>
   button:
     enable: true
     label: Contact Us
